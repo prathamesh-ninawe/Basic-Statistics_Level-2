@@ -1,6 +1,6 @@
-#Basic-Statistics_Level-2
+# Basic-Statistics_Level-2
 
-##1)Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2
+## 1)Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2
 
 Name of company	Measure X
 Allied Signal	24.23%
@@ -20,7 +20,7 @@ US Airways	26.71%
 Warner-Lambert	35.00%
 
 
-##2) Answer the following three questions based on the box-plot above.
+## 2) Answer the following three questions based on the box-plot above.
 (i)	What is inter-quartile range of this dataset? (please approximate the numbers) In one line, explain what this value implies.
 
 	Here clearly 25 is the outlier
@@ -40,7 +40,7 @@ Positively skewed.
 In that case there would have been no outliers, and it might have affected in the values of mean and median slightly. The boxplot might have moved towards right slightly.
 
 
-##3)  Answer the following three questions based on the histogram above.
+## 3)  Answer the following three questions based on the histogram above.
 (i)	Where would the mode of this dataset lie?
 
 --- Between 5 – 8
@@ -55,7 +55,7 @@ In that case there would have been no outliers, and it might have affected in th
 
 
 
-##4.	AT&T was running commercials in 1990 aimed at luring back customers who had switched to one of the other long-distance phone service providers. One such commercial shows a businessman trying to reach Phoenix and mistakenly getting Fiji, where a half-naked native on a beach responds incomprehensibly in Polynesian. When asked about this advertisement, AT&T admitted that the portrayed incident did not actually take place but added that this was an enactment of something that “could happen.” Suppose that one in 200 long-distance telephone calls is misdirected. What is the probability that at least one in five attempted telephone calls reaches the wrong number? (Assume independence of attempts.)
+## 4.	AT&T was running commercials in 1990 aimed at luring back customers who had switched to one of the other long-distance phone service providers. One such commercial shows a businessman trying to reach Phoenix and mistakenly getting Fiji, where a half-naked native on a beach responds incomprehensibly in Polynesian. When asked about this advertisement, AT&T admitted that the portrayed incident did not actually take place but added that this was an enactment of something that “could happen.” Suppose that one in 200 long-distance telephone calls is misdirected. What is the probability that at least one in five attempted telephone calls reaches the wrong number? (Assume independence of attempts.)
 
 	If 1 in 200 long-distance telephone calls are getting misdirected.
 probability of call misdirecting = 1/200
@@ -74,7 +74,7 @@ P(1) = 0.0245037
 
 
 
-##5.	Returns on a certain business venture, to the nearest $1,000, are known to follow the following probability distribution
+## 5.	Returns on a certain business venture, to the nearest $1,000, are known to follow the following probability distribution
 x	P(x)
 -2,000	0.1
 -1,000	0.1
